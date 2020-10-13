@@ -1,0 +1,1729 @@
+Price,Doors,Seats,Safety,Worth
+High,Two,Two,Low,No
+High,Two,Two,Medium,No
+High,Two,Two,High,No
+High,Two,Two,Low,No
+High,Two,Two,Medium,No
+High,Two,Two,High,No
+High,Two,Two,Low,No
+High,Two,Two,Medium,No
+High,Two,Two,High,No
+High,Two,Two,Low,No
+High,Two,Two,Medium,No
+High,Two,Two,High,No
+High,Two,Two,Low,No
+High,Two,Two,Medium,No
+High,Two,Two,High,No
+High,Two,Two,Low,No
+High,Two,Two,Medium,No
+High,Two,Two,High,No
+High,Two,Two,Low,No
+High,Two,Two,Medium,No
+High,Two,Two,High,No
+High,Two,Two,Low,No
+High,Two,Two,Medium,No
+High,Two,Two,High,No
+High,Two,Two,Low,No
+High,Two,Two,Medium,No
+High,Two,Two,High,No
+High,Two,Two,Low,No
+High,Two,Two,Medium,No
+High,Two,Two,High,No
+High,Two,Two,Low,No
+High,Two,Two,Medium,No
+High,Two,Two,High,No
+High,Two,Two,Low,No
+High,Two,Two,Medium,No
+High,Two,Two,High,No
+High,Two,Two,Low,No
+High,Two,Two,Medium,No
+High,Two,Two,High,No
+High,Two,Two,Low,No
+High,Two,Two,Medium,No
+High,Two,Two,High,No
+High,Two,Two,Low,No
+High,Two,Two,Medium,No
+High,Two,Two,High,No
+High,Two,Two,Low,No
+High,Two,Two,Medium,No
+High,Two,Two,High,No
+High,Two,Two,Low,No
+High,Two,Two,Medium,No
+High,Two,Two,High,No
+High,Two,Two,Low,No
+High,Two,Two,Medium,No
+High,Two,Two,High,No
+High,Two,Two,Low,No
+High,Two,Two,Medium,No
+High,Two,Two,High,No
+High,Two,Two,Low,No
+High,Two,Two,Medium,No
+High,Two,Two,High,No
+High,Two,Two,Low,No
+High,Two,Two,Medium,No
+High,Two,Two,High,No
+High,Two,Two,Low,No
+High,Two,Two,Medium,No
+High,Two,Two,High,No
+High,Two,Two,Low,No
+High,Two,Two,Medium,No
+High,Two,Two,High,No
+High,Two,Two,Low,No
+High,Two,Two,Medium,No
+High,Two,Two,High,No
+Medium,Two,Two,Low,No
+Medium,Two,Two,Medium,No
+Medium,Two,Two,High,No
+Medium,Two,Two,Low,No
+Medium,Two,Two,Medium,No
+Medium,Two,Two,High,No
+Medium,Two,Two,Low,No
+Medium,Two,Two,Medium,No
+Medium,Two,Two,High,No
+Medium,Two,Two,Low,No
+Medium,Two,Two,Medium,No
+Medium,Two,Two,High,No
+Medium,Two,Two,Low,No
+Medium,Two,Two,Medium,No
+Medium,Two,Two,High,No
+Medium,Two,Two,Low,No
+Medium,Two,Two,Medium,No
+Medium,Two,Two,High,No
+Medium,Two,Two,Low,No
+Medium,Two,Two,Medium,No
+Medium,Two,Two,High,No
+Medium,Two,Two,Low,No
+Medium,Two,Two,Medium,No
+Medium,Two,Two,High,No
+Medium,Two,Two,Low,No
+Medium,Two,Two,Medium,No
+Medium,Two,Two,High,No
+Medium,Two,Two,Low,No
+Medium,Two,Two,Medium,No
+Medium,Two,Two,High,No
+Medium,Two,Two,Low,No
+Medium,Two,Two,Medium,No
+Medium,Two,Two,High,No
+Medium,Two,Two,Low,No
+Medium,Two,Two,Medium,No
+Medium,Two,Two,High,No
+Low,Two,Two,Low,No
+Low,Two,Two,Medium,No
+Low,Two,Two,High,No
+Low,Two,Two,Low,No
+Low,Two,Two,Medium,No
+Low,Two,Two,High,No
+Low,Two,Two,Low,No
+Low,Two,Two,Medium,No
+Low,Two,Two,High,No
+Low,Two,Two,Low,No
+Low,Two,Two,Medium,No
+Low,Two,Two,High,No
+Low,Two,Two,Low,No
+Low,Two,Two,Medium,No
+Low,Two,Two,High,No
+Low,Two,Two,Low,No
+Low,Two,Two,Medium,No
+Low,Two,Two,High,No
+Low,Two,Two,Low,No
+Low,Two,Two,Medium,No
+Low,Two,Two,High,No
+Low,Two,Two,Low,No
+Low,Two,Two,Medium,No
+Low,Two,Two,High,No
+Low,Two,Two,Low,No
+Low,Two,Two,Medium,No
+Low,Two,Two,High,No
+Low,Two,Two,Low,No
+Low,Two,Two,Medium,No
+Low,Two,Two,High,No
+Low,Two,Two,Low,No
+Low,Two,Two,Medium,No
+Low,Two,Two,High,No
+Low,Two,Two,Low,No
+Low,Two,Two,Medium,No
+Low,Two,Two,High,No
+High,Three,Two,Low,No
+High,Three,Two,Medium,No
+High,Three,Two,High,No
+High,Three,Two,Low,No
+High,Three,Two,Medium,No
+High,Three,Two,High,No
+High,Three,Two,Low,No
+High,Three,Two,Medium,No
+High,Three,Two,High,No
+High,Three,Two,Low,No
+High,Three,Two,Medium,No
+High,Three,Two,High,No
+High,Three,Two,Low,No
+High,Three,Two,Medium,No
+High,Three,Two,High,No
+High,Three,Two,Low,No
+High,Three,Two,Medium,No
+High,Three,Two,High,No
+High,Three,Two,Low,No
+High,Three,Two,Medium,No
+High,Three,Two,High,No
+High,Three,Two,Low,No
+High,Three,Two,Medium,No
+High,Three,Two,High,No
+High,Three,Two,Low,No
+High,Three,Two,Medium,No
+High,Three,Two,High,No
+High,Three,Two,Low,No
+High,Three,Two,Medium,No
+High,Three,Two,High,No
+High,Three,Two,Low,No
+High,Three,Two,Medium,No
+High,Three,Two,High,No
+High,Three,Two,Low,No
+High,Three,Two,Medium,No
+High,Three,Two,High,No
+High,Three,Two,Low,No
+High,Three,Two,Medium,No
+High,Three,Two,High,No
+High,Three,Two,Low,No
+High,Three,Two,Medium,No
+High,Three,Two,High,No
+High,Three,Two,Low,No
+High,Three,Two,Medium,No
+High,Three,Two,High,No
+High,Three,Two,Low,No
+High,Three,Two,Medium,No
+High,Three,Two,High,No
+High,Three,Two,Low,No
+High,Three,Two,Medium,No
+High,Three,Two,High,No
+High,Three,Two,Low,No
+High,Three,Two,Medium,No
+High,Three,Two,High,No
+High,Three,Two,Low,No
+High,Three,Two,Medium,No
+High,Three,Two,High,No
+High,Three,Two,Low,No
+High,Three,Two,Medium,No
+High,Three,Two,High,No
+High,Three,Two,Low,No
+High,Three,Two,Medium,No
+High,Three,Two,High,No
+High,Three,Two,Low,No
+High,Three,Two,Medium,No
+High,Three,Two,High,No
+High,Three,Two,Low,No
+High,Three,Two,Medium,No
+High,Three,Two,High,No
+High,Three,Two,Low,No
+High,Three,Two,Medium,No
+High,Three,Two,High,No
+Medium,Three,Two,Low,No
+Medium,Three,Two,Medium,No
+Medium,Three,Two,High,No
+Medium,Three,Two,Low,No
+Medium,Three,Two,Medium,No
+Medium,Three,Two,High,No
+Medium,Three,Two,Low,No
+Medium,Three,Two,Medium,No
+Medium,Three,Two,High,No
+Medium,Three,Two,Low,No
+Medium,Three,Two,Medium,No
+Medium,Three,Two,High,No
+Medium,Three,Two,Low,No
+Medium,Three,Two,Medium,No
+Medium,Three,Two,High,No
+Medium,Three,Two,Low,No
+Medium,Three,Two,Medium,No
+Medium,Three,Two,High,No
+Medium,Three,Two,Low,No
+Medium,Three,Two,Medium,No
+Medium,Three,Two,High,No
+Medium,Three,Two,Low,No
+Medium,Three,Two,Medium,No
+Medium,Three,Two,High,No
+Medium,Three,Two,Low,No
+Medium,Three,Two,Medium,No
+Medium,Three,Two,High,No
+Medium,Three,Two,Low,No
+Medium,Three,Two,Medium,No
+Medium,Three,Two,High,No
+Medium,Three,Two,Low,No
+Medium,Three,Two,Medium,No
+Medium,Three,Two,High,No
+Medium,Three,Two,Low,No
+Medium,Three,Two,Medium,No
+Medium,Three,Two,High,No
+Low,Three,Two,Low,No
+Low,Three,Two,Medium,No
+Low,Three,Two,High,No
+Low,Three,Two,Low,No
+Low,Three,Two,Medium,No
+Low,Three,Two,High,No
+Low,Three,Two,Low,No
+Low,Three,Two,Medium,No
+Low,Three,Two,High,No
+Low,Three,Two,Low,No
+Low,Three,Two,Medium,No
+Low,Three,Two,High,No
+Low,Three,Two,Low,No
+Low,Three,Two,Medium,No
+Low,Three,Two,High,No
+Low,Three,Two,Low,No
+Low,Three,Two,Medium,No
+Low,Three,Two,High,No
+Low,Three,Two,Low,No
+Low,Three,Two,Medium,No
+Low,Three,Two,High,No
+Low,Three,Two,Low,No
+Low,Three,Two,Medium,No
+Low,Three,Two,High,No
+Low,Three,Two,Low,No
+Low,Three,Two,Medium,No
+Low,Three,Two,High,No
+Low,Three,Two,Low,No
+Low,Three,Two,Medium,No
+Low,Three,Two,High,No
+Low,Three,Two,Low,No
+Low,Three,Two,Medium,No
+Low,Three,Two,High,No
+Low,Three,Two,Low,No
+Low,Three,Two,Medium,No
+Low,Three,Two,High,No
+High,Four,Two,Low,No
+High,Four,Two,Medium,No
+High,Four,Two,High,No
+High,Four,Two,Low,No
+High,Four,Two,Medium,No
+High,Four,Two,High,No
+High,Four,Two,Low,No
+High,Four,Two,Medium,No
+High,Four,Two,High,No
+High,Four,Two,Low,No
+High,Four,Two,Medium,No
+High,Four,Two,High,No
+High,Four,Two,Low,No
+High,Four,Two,Medium,No
+High,Four,Two,High,No
+High,Four,Two,Low,No
+High,Four,Two,Medium,No
+High,Four,Two,High,No
+High,Four,Two,Low,No
+High,Four,Two,Medium,No
+High,Four,Two,High,No
+High,Four,Two,Low,No
+High,Four,Two,Medium,No
+High,Four,Two,High,No
+High,Four,Two,Low,No
+High,Four,Two,Medium,No
+High,Four,Two,High,No
+High,Four,Two,Low,No
+High,Four,Two,Medium,No
+High,Four,Two,High,No
+High,Four,Two,Low,No
+High,Four,Two,Medium,No
+High,Four,Two,High,No
+High,Four,Two,Low,No
+High,Four,Two,Medium,No
+High,Four,Two,High,No
+High,Four,Two,Low,No
+High,Four,Two,Medium,No
+High,Four,Two,High,No
+High,Four,Two,Low,No
+High,Four,Two,Medium,No
+High,Four,Two,High,No
+High,Four,Two,Low,No
+High,Four,Two,Medium,No
+High,Four,Two,High,No
+High,Four,Two,Low,No
+High,Four,Two,Medium,No
+High,Four,Two,High,No
+High,Four,Two,Low,No
+High,Four,Two,Medium,No
+High,Four,Two,High,No
+High,Four,Two,Low,No
+High,Four,Two,Medium,No
+High,Four,Two,High,No
+High,Four,Two,Low,No
+High,Four,Two,Medium,No
+High,Four,Two,High,No
+High,Four,Two,Low,No
+High,Four,Two,Medium,No
+High,Four,Two,High,No
+High,Four,Two,Low,No
+High,Four,Two,Medium,No
+High,Four,Two,High,No
+High,Four,Two,Low,No
+High,Four,Two,Medium,No
+High,Four,Two,High,No
+High,Four,Two,Low,No
+High,Four,Two,Medium,No
+High,Four,Two,High,No
+High,Four,Two,Low,No
+High,Four,Two,Medium,No
+High,Four,Two,High,No
+Medium,Four,Two,Low,No
+Medium,Four,Two,Medium,No
+Medium,Four,Two,High,No
+Medium,Four,Two,Low,No
+Medium,Four,Two,Medium,No
+Medium,Four,Two,High,No
+Medium,Four,Two,Low,No
+Medium,Four,Two,Medium,No
+Medium,Four,Two,High,No
+Medium,Four,Two,Low,No
+Medium,Four,Two,Medium,No
+Medium,Four,Two,High,No
+Medium,Four,Two,Low,No
+Medium,Four,Two,Medium,No
+Medium,Four,Two,High,No
+Medium,Four,Two,Low,No
+Medium,Four,Two,Medium,No
+Medium,Four,Two,High,No
+Medium,Four,Two,Low,No
+Medium,Four,Two,Medium,No
+Medium,Four,Two,High,No
+Medium,Four,Two,Low,No
+Medium,Four,Two,Medium,No
+Medium,Four,Two,High,No
+Medium,Four,Two,Low,No
+Medium,Four,Two,Medium,No
+Medium,Four,Two,High,No
+Medium,Four,Two,Low,No
+Medium,Four,Two,Medium,No
+Medium,Four,Two,High,No
+Medium,Four,Two,Low,No
+Medium,Four,Two,Medium,No
+Medium,Four,Two,High,No
+Medium,Four,Two,Low,No
+Medium,Four,Two,Medium,No
+Medium,Four,Two,High,No
+Low,Four,Two,Low,No
+Low,Four,Two,Medium,No
+Low,Four,Two,High,No
+Low,Four,Two,Low,No
+Low,Four,Two,Medium,No
+Low,Four,Two,High,No
+Low,Four,Two,Low,No
+Low,Four,Two,Medium,No
+Low,Four,Two,High,No
+Low,Four,Two,Low,No
+Low,Four,Two,Medium,No
+Low,Four,Two,High,No
+Low,Four,Two,Low,No
+Low,Four,Two,Medium,No
+Low,Four,Two,High,No
+Low,Four,Two,Low,No
+Low,Four,Two,Medium,No
+Low,Four,Two,High,No
+Low,Four,Two,Low,No
+Low,Four,Two,Medium,No
+Low,Four,Two,High,No
+Low,Four,Two,Low,No
+Low,Four,Two,Medium,No
+Low,Four,Two,High,No
+Low,Four,Two,Low,No
+Low,Four,Two,Medium,No
+Low,Four,Two,High,No
+Low,Four,Two,Low,No
+Low,Four,Two,Medium,No
+Low,Four,Two,High,No
+Low,Four,Two,Low,No
+Low,Four,Two,Medium,No
+Low,Four,Two,High,No
+Low,Four,Two,Low,No
+Low,Four,Two,Medium,No
+Low,Four,Two,High,No
+High,> Five,Two,Low,No
+High,> Five,Two,Medium,No
+High,> Five,Two,High,No
+High,> Five,Two,Low,No
+High,> Five,Two,Medium,No
+High,> Five,Two,High,No
+High,> Five,Two,Low,No
+High,> Five,Two,Medium,No
+High,> Five,Two,High,No
+High,> Five,Two,Low,No
+High,> Five,Two,Medium,No
+High,> Five,Two,High,No
+High,> Five,Two,Low,No
+High,> Five,Two,Medium,No
+High,> Five,Two,High,No
+High,> Five,Two,Low,No
+High,> Five,Two,Medium,No
+High,> Five,Two,High,No
+High,> Five,Two,Low,No
+High,> Five,Two,Medium,No
+High,> Five,Two,High,No
+High,> Five,Two,Low,No
+High,> Five,Two,Medium,No
+High,> Five,Two,High,No
+High,> Five,Two,Low,No
+High,> Five,Two,Medium,No
+High,> Five,Two,High,No
+High,> Five,Two,Low,No
+High,> Five,Two,Medium,No
+High,> Five,Two,High,No
+High,> Five,Two,Low,No
+High,> Five,Two,Medium,No
+High,> Five,Two,High,No
+High,> Five,Two,Low,No
+High,> Five,Two,Medium,No
+High,> Five,Two,High,No
+High,> Five,Two,Low,No
+High,> Five,Two,Medium,No
+High,> Five,Two,High,No
+High,> Five,Two,Low,No
+High,> Five,Two,Medium,No
+High,> Five,Two,High,No
+High,> Five,Two,Low,No
+High,> Five,Two,Medium,No
+High,> Five,Two,High,No
+High,> Five,Two,Low,No
+High,> Five,Two,Medium,No
+High,> Five,Two,High,No
+High,> Five,Two,Low,No
+High,> Five,Two,Medium,No
+High,> Five,Two,High,No
+High,> Five,Two,Low,No
+High,> Five,Two,Medium,No
+High,> Five,Two,High,No
+High,> Five,Two,Low,No
+High,> Five,Two,Medium,No
+High,> Five,Two,High,No
+High,> Five,Two,Low,No
+High,> Five,Two,Medium,No
+High,> Five,Two,High,No
+High,> Five,Two,Low,No
+High,> Five,Two,Medium,No
+High,> Five,Two,High,No
+High,> Five,Two,Low,No
+High,> Five,Two,Medium,No
+High,> Five,Two,High,No
+High,> Five,Two,Low,No
+High,> Five,Two,Medium,No
+High,> Five,Two,High,No
+High,> Five,Two,Low,No
+High,> Five,Two,Medium,No
+High,> Five,Two,High,No
+Medium,> Five,Two,Low,No
+Medium,> Five,Two,Medium,No
+Medium,> Five,Two,High,No
+Medium,> Five,Two,Low,No
+Medium,> Five,Two,Medium,No
+Medium,> Five,Two,High,No
+Medium,> Five,Two,Low,No
+Medium,> Five,Two,Medium,No
+Medium,> Five,Two,High,No
+Medium,> Five,Two,Low,No
+Medium,> Five,Two,Medium,No
+Medium,> Five,Two,High,No
+Medium,> Five,Two,Low,No
+Medium,> Five,Two,Medium,No
+Medium,> Five,Two,High,No
+Medium,> Five,Two,Low,No
+Medium,> Five,Two,Medium,No
+Medium,> Five,Two,High,No
+Medium,> Five,Two,Low,No
+Medium,> Five,Two,Medium,No
+Medium,> Five,Two,High,No
+Medium,> Five,Two,Low,No
+Medium,> Five,Two,Medium,No
+Medium,> Five,Two,High,No
+Medium,> Five,Two,Low,No
+Medium,> Five,Two,Medium,No
+Medium,> Five,Two,High,No
+Medium,> Five,Two,Low,No
+Medium,> Five,Two,Medium,No
+Medium,> Five,Two,High,No
+Medium,> Five,Two,Low,No
+Medium,> Five,Two,Medium,No
+Medium,> Five,Two,High,No
+Medium,> Five,Two,Low,No
+Medium,> Five,Two,Medium,No
+Medium,> Five,Two,High,No
+Low,> Five,Two,Low,No
+Low,> Five,Two,Medium,No
+Low,> Five,Two,High,No
+Low,> Five,Two,Low,No
+Low,> Five,Two,Medium,No
+Low,> Five,Two,High,No
+Low,> Five,Two,Low,No
+Low,> Five,Two,Medium,No
+Low,> Five,Two,High,No
+Low,> Five,Two,Low,No
+Low,> Five,Two,Medium,No
+Low,> Five,Two,High,No
+Low,> Five,Two,Low,No
+Low,> Five,Two,Medium,No
+Low,> Five,Two,High,No
+Low,> Five,Two,Low,No
+Low,> Five,Two,Medium,No
+Low,> Five,Two,High,No
+Low,> Five,Two,Low,No
+Low,> Five,Two,Medium,No
+Low,> Five,Two,High,No
+Low,> Five,Two,Low,No
+Low,> Five,Two,Medium,No
+Low,> Five,Two,High,No
+Low,> Five,Two,Low,No
+Low,> Five,Two,Medium,No
+Low,> Five,Two,High,No
+Low,> Five,Two,Low,No
+Low,> Five,Two,Medium,No
+Low,> Five,Two,High,No
+Low,> Five,Two,Low,No
+Low,> Five,Two,Medium,No
+Low,> Five,Two,High,No
+Low,> Five,Two,Low,No
+Low,> Five,Two,Medium,No
+Low,> Five,Two,High,No
+High,Two,Four,Low,No
+High,Two,Four,Medium,No
+High,Two,Four,High,No
+High,Two,Four,Low,No
+High,Two,Four,Medium,No
+High,Two,Four,High,No
+High,Two,Four,Low,No
+High,Two,Four,Medium,No
+High,Two,Four,High,No
+High,Two,Four,Low,No
+High,Two,Four,Medium,No
+High,Two,Four,High,No
+High,Two,Four,Low,No
+High,Two,Four,Medium,No
+High,Two,Four,High,No
+High,Two,Four,Low,No
+High,Two,Four,Medium,No
+High,Two,Four,High,No
+High,Two,Four,Low,No
+High,Two,Four,Medium,No
+High,Two,Four,High,Yes
+High,Two,Four,Low,No
+High,Two,Four,Medium,No
+High,Two,Four,High,Yes
+High,Two,Four,Low,No
+High,Two,Four,Medium,Yes
+High,Two,Four,High,Yes
+High,Two,Four,Low,No
+High,Two,Four,Medium,No
+High,Two,Four,High,Yes
+High,Two,Four,Low,No
+High,Two,Four,Medium,No
+High,Two,Four,High,Yes
+High,Two,Four,Low,No
+High,Two,Four,Medium,Yes
+High,Two,Four,High,Yes
+High,Two,Four,Low,No
+High,Two,Four,Medium,No
+High,Two,Four,High,No
+High,Two,Four,Low,No
+High,Two,Four,Medium,No
+High,Two,Four,High,No
+High,Two,Four,Low,No
+High,Two,Four,Medium,No
+High,Two,Four,High,No
+High,Two,Four,Low,No
+High,Two,Four,Medium,No
+High,Two,Four,High,Yes
+High,Two,Four,Low,No
+High,Two,Four,Medium,No
+High,Two,Four,High,Yes
+High,Two,Four,Low,No
+High,Two,Four,Medium,Yes
+High,Two,Four,High,Yes
+High,Two,Four,Low,No
+High,Two,Four,Medium,No
+High,Two,Four,High,Yes
+High,Two,Four,Low,No
+High,Two,Four,Medium,No
+High,Two,Four,High,Yes
+High,Two,Four,Low,No
+High,Two,Four,Medium,Yes
+High,Two,Four,High,Yes
+High,Two,Four,Low,No
+High,Two,Four,Medium,No
+High,Two,Four,High,Yes
+High,Two,Four,Low,No
+High,Two,Four,Medium,No
+High,Two,Four,High,Yes
+High,Two,Four,Low,No
+High,Two,Four,Medium,Yes
+High,Two,Four,High,Yes
+Medium,Two,Four,Low,No
+Medium,Two,Four,Medium,No
+Medium,Two,Four,High,Yes
+Medium,Two,Four,Low,No
+Medium,Two,Four,Medium,No
+Medium,Two,Four,High,Yes
+Medium,Two,Four,Low,No
+Medium,Two,Four,Medium,Yes
+Medium,Two,Four,High,Yes
+Medium,Two,Four,Low,No
+Medium,Two,Four,Medium,No
+Medium,Two,Four,High,Yes
+Medium,Two,Four,Low,No
+Medium,Two,Four,Medium,No
+Medium,Two,Four,High,Yes
+Medium,Two,Four,Low,No
+Medium,Two,Four,Medium,Yes
+Medium,Two,Four,High,Yes
+Medium,Two,Four,Low,No
+Medium,Two,Four,Medium,Yes
+Medium,Two,Four,High,Yes
+Medium,Two,Four,Low,No
+Medium,Two,Four,Medium,Yes
+Medium,Two,Four,High,Yes
+Medium,Two,Four,Low,No
+Medium,Two,Four,Medium,Yes
+Medium,Two,Four,High,Yes
+Medium,Two,Four,Low,No
+Medium,Two,Four,Medium,Yes
+Medium,Two,Four,High,Yes
+Medium,Two,Four,Low,No
+Medium,Two,Four,Medium,Yes
+Medium,Two,Four,High,Yes
+Medium,Two,Four,Low,No
+Medium,Two,Four,Medium,Yes
+Medium,Two,Four,High,Yes
+Low,Two,Four,Low,No
+Low,Two,Four,Medium,No
+Low,Two,Four,High,Yes
+Low,Two,Four,Low,No
+Low,Two,Four,Medium,No
+Low,Two,Four,High,Yes
+Low,Two,Four,Low,No
+Low,Two,Four,Medium,Yes
+Low,Two,Four,High,Yes
+Low,Two,Four,Low,No
+Low,Two,Four,Medium,Yes
+Low,Two,Four,High,Yes
+Low,Two,Four,Low,No
+Low,Two,Four,Medium,Yes
+Low,Two,Four,High,Yes
+Low,Two,Four,Low,No
+Low,Two,Four,Medium,Yes
+Low,Two,Four,High,Yes
+Low,Two,Four,Low,No
+Low,Two,Four,Medium,Yes
+Low,Two,Four,High,Yes
+Low,Two,Four,Low,No
+Low,Two,Four,Medium,Yes
+Low,Two,Four,High,Yes
+Low,Two,Four,Low,No
+Low,Two,Four,Medium,Yes
+Low,Two,Four,High,Yes
+Low,Two,Four,Low,No
+Low,Two,Four,Medium,Yes
+Low,Two,Four,High,Yes
+Low,Two,Four,Low,No
+Low,Two,Four,Medium,Yes
+Low,Two,Four,High,Yes
+Low,Two,Four,Low,No
+Low,Two,Four,Medium,Yes
+Low,Two,Four,High,Yes
+High,Three,Four,Low,No
+High,Three,Four,Medium,No
+High,Three,Four,High,No
+High,Three,Four,Low,No
+High,Three,Four,Medium,No
+High,Three,Four,High,No
+High,Three,Four,Low,No
+High,Three,Four,Medium,No
+High,Three,Four,High,No
+High,Three,Four,Low,No
+High,Three,Four,Medium,No
+High,Three,Four,High,No
+High,Three,Four,Low,No
+High,Three,Four,Medium,No
+High,Three,Four,High,No
+High,Three,Four,Low,No
+High,Three,Four,Medium,No
+High,Three,Four,High,No
+High,Three,Four,Low,No
+High,Three,Four,Medium,No
+High,Three,Four,High,Yes
+High,Three,Four,Low,No
+High,Three,Four,Medium,No
+High,Three,Four,High,Yes
+High,Three,Four,Low,No
+High,Three,Four,Medium,Yes
+High,Three,Four,High,Yes
+High,Three,Four,Low,No
+High,Three,Four,Medium,No
+High,Three,Four,High,Yes
+High,Three,Four,Low,No
+High,Three,Four,Medium,No
+High,Three,Four,High,Yes
+High,Three,Four,Low,No
+High,Three,Four,Medium,Yes
+High,Three,Four,High,Yes
+High,Three,Four,Low,No
+High,Three,Four,Medium,No
+High,Three,Four,High,No
+High,Three,Four,Low,No
+High,Three,Four,Medium,No
+High,Three,Four,High,No
+High,Three,Four,Low,No
+High,Three,Four,Medium,No
+High,Three,Four,High,No
+High,Three,Four,Low,No
+High,Three,Four,Medium,No
+High,Three,Four,High,Yes
+High,Three,Four,Low,No
+High,Three,Four,Medium,No
+High,Three,Four,High,Yes
+High,Three,Four,Low,No
+High,Three,Four,Medium,Yes
+High,Three,Four,High,Yes
+High,Three,Four,Low,No
+High,Three,Four,Medium,No
+High,Three,Four,High,Yes
+High,Three,Four,Low,No
+High,Three,Four,Medium,No
+High,Three,Four,High,Yes
+High,Three,Four,Low,No
+High,Three,Four,Medium,Yes
+High,Three,Four,High,Yes
+High,Three,Four,Low,No
+High,Three,Four,Medium,No
+High,Three,Four,High,Yes
+High,Three,Four,Low,No
+High,Three,Four,Medium,No
+High,Three,Four,High,Yes
+High,Three,Four,Low,No
+High,Three,Four,Medium,Yes
+High,Three,Four,High,Yes
+Medium,Three,Four,Low,No
+Medium,Three,Four,Medium,No
+Medium,Three,Four,High,Yes
+Medium,Three,Four,Low,No
+Medium,Three,Four,Medium,No
+Medium,Three,Four,High,Yes
+Medium,Three,Four,Low,No
+Medium,Three,Four,Medium,Yes
+Medium,Three,Four,High,Yes
+Medium,Three,Four,Low,No
+Medium,Three,Four,Medium,No
+Medium,Three,Four,High,Yes
+Medium,Three,Four,Low,No
+Medium,Three,Four,Medium,No
+Medium,Three,Four,High,Yes
+Medium,Three,Four,Low,No
+Medium,Three,Four,Medium,Yes
+Medium,Three,Four,High,Yes
+Medium,Three,Four,Low,No
+Medium,Three,Four,Medium,Yes
+Medium,Three,Four,High,Yes
+Medium,Three,Four,Low,No
+Medium,Three,Four,Medium,Yes
+Medium,Three,Four,High,Yes
+Medium,Three,Four,Low,No
+Medium,Three,Four,Medium,Yes
+Medium,Three,Four,High,Yes
+Medium,Three,Four,Low,No
+Medium,Three,Four,Medium,Yes
+Medium,Three,Four,High,Yes
+Medium,Three,Four,Low,No
+Medium,Three,Four,Medium,Yes
+Medium,Three,Four,High,Yes
+Medium,Three,Four,Low,No
+Medium,Three,Four,Medium,Yes
+Medium,Three,Four,High,Yes
+Low,Three,Four,Low,No
+Low,Three,Four,Medium,No
+Low,Three,Four,High,Yes
+Low,Three,Four,Low,No
+Low,Three,Four,Medium,No
+Low,Three,Four,High,Yes
+Low,Three,Four,Low,No
+Low,Three,Four,Medium,Yes
+Low,Three,Four,High,Yes
+Low,Three,Four,Low,No
+Low,Three,Four,Medium,Yes
+Low,Three,Four,High,Yes
+Low,Three,Four,Low,No
+Low,Three,Four,Medium,Yes
+Low,Three,Four,High,Yes
+Low,Three,Four,Low,No
+Low,Three,Four,Medium,Yes
+Low,Three,Four,High,Yes
+Low,Three,Four,Low,No
+Low,Three,Four,Medium,Yes
+Low,Three,Four,High,Yes
+Low,Three,Four,Low,No
+Low,Three,Four,Medium,Yes
+Low,Three,Four,High,Yes
+Low,Three,Four,Low,No
+Low,Three,Four,Medium,Yes
+Low,Three,Four,High,Yes
+Low,Three,Four,Low,No
+Low,Three,Four,Medium,Yes
+Low,Three,Four,High,Yes
+Low,Three,Four,Low,No
+Low,Three,Four,Medium,Yes
+Low,Three,Four,High,Yes
+Low,Three,Four,Low,No
+Low,Three,Four,Medium,Yes
+Low,Three,Four,High,Yes
+High,Four,Four,Low,No
+High,Four,Four,Medium,No
+High,Four,Four,High,No
+High,Four,Four,Low,No
+High,Four,Four,Medium,No
+High,Four,Four,High,No
+High,Four,Four,Low,No
+High,Four,Four,Medium,No
+High,Four,Four,High,No
+High,Four,Four,Low,No
+High,Four,Four,Medium,No
+High,Four,Four,High,No
+High,Four,Four,Low,No
+High,Four,Four,Medium,No
+High,Four,Four,High,No
+High,Four,Four,Low,No
+High,Four,Four,Medium,No
+High,Four,Four,High,No
+High,Four,Four,Low,No
+High,Four,Four,Medium,No
+High,Four,Four,High,Yes
+High,Four,Four,Low,No
+High,Four,Four,Medium,Yes
+High,Four,Four,High,Yes
+High,Four,Four,Low,No
+High,Four,Four,Medium,Yes
+High,Four,Four,High,Yes
+High,Four,Four,Low,No
+High,Four,Four,Medium,No
+High,Four,Four,High,Yes
+High,Four,Four,Low,No
+High,Four,Four,Medium,Yes
+High,Four,Four,High,Yes
+High,Four,Four,Low,No
+High,Four,Four,Medium,Yes
+High,Four,Four,High,Yes
+High,Four,Four,Low,No
+High,Four,Four,Medium,No
+High,Four,Four,High,No
+High,Four,Four,Low,No
+High,Four,Four,Medium,No
+High,Four,Four,High,No
+High,Four,Four,Low,No
+High,Four,Four,Medium,No
+High,Four,Four,High,No
+High,Four,Four,Low,No
+High,Four,Four,Medium,No
+High,Four,Four,High,Yes
+High,Four,Four,Low,No
+High,Four,Four,Medium,Yes
+High,Four,Four,High,Yes
+High,Four,Four,Low,No
+High,Four,Four,Medium,Yes
+High,Four,Four,High,Yes
+High,Four,Four,Low,No
+High,Four,Four,Medium,No
+High,Four,Four,High,Yes
+High,Four,Four,Low,No
+High,Four,Four,Medium,Yes
+High,Four,Four,High,Yes
+High,Four,Four,Low,No
+High,Four,Four,Medium,Yes
+High,Four,Four,High,Yes
+High,Four,Four,Low,No
+High,Four,Four,Medium,No
+High,Four,Four,High,Yes
+High,Four,Four,Low,No
+High,Four,Four,Medium,Yes
+High,Four,Four,High,Yes
+High,Four,Four,Low,No
+High,Four,Four,Medium,Yes
+High,Four,Four,High,Yes
+Medium,Four,Four,Low,No
+Medium,Four,Four,Medium,No
+Medium,Four,Four,High,Yes
+Medium,Four,Four,Low,No
+Medium,Four,Four,Medium,Yes
+Medium,Four,Four,High,Yes
+Medium,Four,Four,Low,No
+Medium,Four,Four,Medium,Yes
+Medium,Four,Four,High,Yes
+Medium,Four,Four,Low,No
+Medium,Four,Four,Medium,No
+Medium,Four,Four,High,Yes
+Medium,Four,Four,Low,No
+Medium,Four,Four,Medium,Yes
+Medium,Four,Four,High,Yes
+Medium,Four,Four,Low,No
+Medium,Four,Four,Medium,Yes
+Medium,Four,Four,High,Yes
+Medium,Four,Four,Low,No
+Medium,Four,Four,Medium,Yes
+Medium,Four,Four,High,Yes
+Medium,Four,Four,Low,No
+Medium,Four,Four,Medium,Yes
+Medium,Four,Four,High,Yes
+Medium,Four,Four,Low,No
+Medium,Four,Four,Medium,Yes
+Medium,Four,Four,High,Yes
+Medium,Four,Four,Low,No
+Medium,Four,Four,Medium,Yes
+Medium,Four,Four,High,Yes
+Medium,Four,Four,Low,No
+Medium,Four,Four,Medium,Yes
+Medium,Four,Four,High,Yes
+Medium,Four,Four,Low,No
+Medium,Four,Four,Medium,Yes
+Medium,Four,Four,High,Yes
+Low,Four,Four,Low,No
+Low,Four,Four,Medium,No
+Low,Four,Four,High,Yes
+Low,Four,Four,Low,No
+Low,Four,Four,Medium,Yes
+Low,Four,Four,High,Yes
+Low,Four,Four,Low,No
+Low,Four,Four,Medium,Yes
+Low,Four,Four,High,Yes
+Low,Four,Four,Low,No
+Low,Four,Four,Medium,Yes
+Low,Four,Four,High,Yes
+Low,Four,Four,Low,No
+Low,Four,Four,Medium,Yes
+Low,Four,Four,High,Yes
+Low,Four,Four,Low,No
+Low,Four,Four,Medium,Yes
+Low,Four,Four,High,Yes
+Low,Four,Four,Low,No
+Low,Four,Four,Medium,Yes
+Low,Four,Four,High,Yes
+Low,Four,Four,Low,No
+Low,Four,Four,Medium,Yes
+Low,Four,Four,High,Yes
+Low,Four,Four,Low,No
+Low,Four,Four,Medium,Yes
+Low,Four,Four,High,Yes
+Low,Four,Four,Low,No
+Low,Four,Four,Medium,Yes
+Low,Four,Four,High,Yes
+Low,Four,Four,Low,No
+Low,Four,Four,Medium,Yes
+Low,Four,Four,High,Yes
+Low,Four,Four,Low,No
+Low,Four,Four,Medium,Yes
+Low,Four,Four,High,Yes
+High,> Five,Four,Low,No
+High,> Five,Four,Medium,No
+High,> Five,Four,High,No
+High,> Five,Four,Low,No
+High,> Five,Four,Medium,No
+High,> Five,Four,High,No
+High,> Five,Four,Low,No
+High,> Five,Four,Medium,No
+High,> Five,Four,High,No
+High,> Five,Four,Low,No
+High,> Five,Four,Medium,No
+High,> Five,Four,High,No
+High,> Five,Four,Low,No
+High,> Five,Four,Medium,No
+High,> Five,Four,High,No
+High,> Five,Four,Low,No
+High,> Five,Four,Medium,No
+High,> Five,Four,High,No
+High,> Five,Four,Low,No
+High,> Five,Four,Medium,No
+High,> Five,Four,High,Yes
+High,> Five,Four,Low,No
+High,> Five,Four,Medium,Yes
+High,> Five,Four,High,Yes
+High,> Five,Four,Low,No
+High,> Five,Four,Medium,Yes
+High,> Five,Four,High,Yes
+High,> Five,Four,Low,No
+High,> Five,Four,Medium,No
+High,> Five,Four,High,Yes
+High,> Five,Four,Low,No
+High,> Five,Four,Medium,Yes
+High,> Five,Four,High,Yes
+High,> Five,Four,Low,No
+High,> Five,Four,Medium,Yes
+High,> Five,Four,High,Yes
+High,> Five,Four,Low,No
+High,> Five,Four,Medium,No
+High,> Five,Four,High,No
+High,> Five,Four,Low,No
+High,> Five,Four,Medium,No
+High,> Five,Four,High,No
+High,> Five,Four,Low,No
+High,> Five,Four,Medium,No
+High,> Five,Four,High,No
+High,> Five,Four,Low,No
+High,> Five,Four,Medium,No
+High,> Five,Four,High,Yes
+High,> Five,Four,Low,No
+High,> Five,Four,Medium,Yes
+High,> Five,Four,High,Yes
+High,> Five,Four,Low,No
+High,> Five,Four,Medium,Yes
+High,> Five,Four,High,Yes
+High,> Five,Four,Low,No
+High,> Five,Four,Medium,No
+High,> Five,Four,High,Yes
+High,> Five,Four,Low,No
+High,> Five,Four,Medium,Yes
+High,> Five,Four,High,Yes
+High,> Five,Four,Low,No
+High,> Five,Four,Medium,Yes
+High,> Five,Four,High,Yes
+High,> Five,Four,Low,No
+High,> Five,Four,Medium,No
+High,> Five,Four,High,Yes
+High,> Five,Four,Low,No
+High,> Five,Four,Medium,Yes
+High,> Five,Four,High,Yes
+High,> Five,Four,Low,No
+High,> Five,Four,Medium,Yes
+High,> Five,Four,High,Yes
+Medium,> Five,Four,Low,No
+Medium,> Five,Four,Medium,No
+Medium,> Five,Four,High,Yes
+Medium,> Five,Four,Low,No
+Medium,> Five,Four,Medium,Yes
+Medium,> Five,Four,High,Yes
+Medium,> Five,Four,Low,No
+Medium,> Five,Four,Medium,Yes
+Medium,> Five,Four,High,Yes
+Medium,> Five,Four,Low,No
+Medium,> Five,Four,Medium,No
+Medium,> Five,Four,High,Yes
+Medium,> Five,Four,Low,No
+Medium,> Five,Four,Medium,Yes
+Medium,> Five,Four,High,Yes
+Medium,> Five,Four,Low,No
+Medium,> Five,Four,Medium,Yes
+Medium,> Five,Four,High,Yes
+Medium,> Five,Four,Low,No
+Medium,> Five,Four,Medium,Yes
+Medium,> Five,Four,High,Yes
+Medium,> Five,Four,Low,No
+Medium,> Five,Four,Medium,Yes
+Medium,> Five,Four,High,Yes
+Medium,> Five,Four,Low,No
+Medium,> Five,Four,Medium,Yes
+Medium,> Five,Four,High,Yes
+Medium,> Five,Four,Low,No
+Medium,> Five,Four,Medium,Yes
+Medium,> Five,Four,High,Yes
+Medium,> Five,Four,Low,No
+Medium,> Five,Four,Medium,Yes
+Medium,> Five,Four,High,Yes
+Medium,> Five,Four,Low,No
+Medium,> Five,Four,Medium,Yes
+Medium,> Five,Four,High,Yes
+Low,> Five,Four,Low,No
+Low,> Five,Four,Medium,No
+Low,> Five,Four,High,Yes
+Low,> Five,Four,Low,No
+Low,> Five,Four,Medium,Yes
+Low,> Five,Four,High,Yes
+Low,> Five,Four,Low,No
+Low,> Five,Four,Medium,Yes
+Low,> Five,Four,High,Yes
+Low,> Five,Four,Low,No
+Low,> Five,Four,Medium,Yes
+Low,> Five,Four,High,Yes
+Low,> Five,Four,Low,No
+Low,> Five,Four,Medium,Yes
+Low,> Five,Four,High,Yes
+Low,> Five,Four,Low,No
+Low,> Five,Four,Medium,Yes
+Low,> Five,Four,High,Yes
+Low,> Five,Four,Low,No
+Low,> Five,Four,Medium,Yes
+Low,> Five,Four,High,Yes
+Low,> Five,Four,Low,No
+Low,> Five,Four,Medium,Yes
+Low,> Five,Four,High,Yes
+Low,> Five,Four,Low,No
+Low,> Five,Four,Medium,Yes
+Low,> Five,Four,High,Yes
+Low,> Five,Four,Low,No
+Low,> Five,Four,Medium,Yes
+Low,> Five,Four,High,Yes
+Low,> Five,Four,Low,No
+Low,> Five,Four,Medium,Yes
+Low,> Five,Four,High,Yes
+Low,> Five,Four,Low,No
+Low,> Five,Four,Medium,Yes
+Low,> Five,Four,High,Yes
+High,Two,> Five,Low,No
+High,Two,> Five,Medium,No
+High,Two,> Five,High,No
+High,Two,> Five,Low,No
+High,Two,> Five,Medium,No
+High,Two,> Five,High,No
+High,Two,> Five,Low,No
+High,Two,> Five,Medium,No
+High,Two,> Five,High,No
+High,Two,> Five,Low,No
+High,Two,> Five,Medium,No
+High,Two,> Five,High,No
+High,Two,> Five,Low,No
+High,Two,> Five,Medium,No
+High,Two,> Five,High,No
+High,Two,> Five,Low,No
+High,Two,> Five,Medium,No
+High,Two,> Five,High,No
+High,Two,> Five,Low,No
+High,Two,> Five,Medium,No
+High,Two,> Five,High,No
+High,Two,> Five,Low,No
+High,Two,> Five,Medium,No
+High,Two,> Five,High,Yes
+High,Two,> Five,Low,No
+High,Two,> Five,Medium,Yes
+High,Two,> Five,High,Yes
+High,Two,> Five,Low,No
+High,Two,> Five,Medium,No
+High,Two,> Five,High,No
+High,Two,> Five,Low,No
+High,Two,> Five,Medium,No
+High,Two,> Five,High,Yes
+High,Two,> Five,Low,No
+High,Two,> Five,Medium,Yes
+High,Two,> Five,High,Yes
+High,Two,> Five,Low,No
+High,Two,> Five,Medium,No
+High,Two,> Five,High,No
+High,Two,> Five,Low,No
+High,Two,> Five,Medium,No
+High,Two,> Five,High,No
+High,Two,> Five,Low,No
+High,Two,> Five,Medium,No
+High,Two,> Five,High,No
+High,Two,> Five,Low,No
+High,Two,> Five,Medium,No
+High,Two,> Five,High,No
+High,Two,> Five,Low,No
+High,Two,> Five,Medium,No
+High,Two,> Five,High,Yes
+High,Two,> Five,Low,No
+High,Two,> Five,Medium,Yes
+High,Two,> Five,High,Yes
+High,Two,> Five,Low,No
+High,Two,> Five,Medium,No
+High,Two,> Five,High,No
+High,Two,> Five,Low,No
+High,Two,> Five,Medium,No
+High,Two,> Five,High,Yes
+High,Two,> Five,Low,No
+High,Two,> Five,Medium,Yes
+High,Two,> Five,High,Yes
+High,Two,> Five,Low,No
+High,Two,> Five,Medium,No
+High,Two,> Five,High,No
+High,Two,> Five,Low,No
+High,Two,> Five,Medium,No
+High,Two,> Five,High,Yes
+High,Two,> Five,Low,No
+High,Two,> Five,Medium,Yes
+High,Two,> Five,High,Yes
+Medium,Two,> Five,Low,No
+Medium,Two,> Five,Medium,No
+Medium,Two,> Five,High,No
+Medium,Two,> Five,Low,No
+Medium,Two,> Five,Medium,No
+Medium,Two,> Five,High,Yes
+Medium,Two,> Five,Low,No
+Medium,Two,> Five,Medium,Yes
+Medium,Two,> Five,High,Yes
+Medium,Two,> Five,Low,No
+Medium,Two,> Five,Medium,No
+Medium,Two,> Five,High,No
+Medium,Two,> Five,Low,No
+Medium,Two,> Five,Medium,No
+Medium,Two,> Five,High,Yes
+Medium,Two,> Five,Low,No
+Medium,Two,> Five,Medium,Yes
+Medium,Two,> Five,High,Yes
+Medium,Two,> Five,Low,No
+Medium,Two,> Five,Medium,No
+Medium,Two,> Five,High,No
+Medium,Two,> Five,Low,No
+Medium,Two,> Five,Medium,Yes
+Medium,Two,> Five,High,Yes
+Medium,Two,> Five,Low,No
+Medium,Two,> Five,Medium,Yes
+Medium,Two,> Five,High,Yes
+Medium,Two,> Five,Low,No
+Medium,Two,> Five,Medium,No
+Medium,Two,> Five,High,No
+Medium,Two,> Five,Low,No
+Medium,Two,> Five,Medium,Yes
+Medium,Two,> Five,High,Yes
+Medium,Two,> Five,Low,No
+Medium,Two,> Five,Medium,Yes
+Medium,Two,> Five,High,Yes
+Low,Two,> Five,Low,No
+Low,Two,> Five,Medium,No
+Low,Two,> Five,High,No
+Low,Two,> Five,Low,No
+Low,Two,> Five,Medium,No
+Low,Two,> Five,High,Yes
+Low,Two,> Five,Low,No
+Low,Two,> Five,Medium,Yes
+Low,Two,> Five,High,Yes
+Low,Two,> Five,Low,No
+Low,Two,> Five,Medium,No
+Low,Two,> Five,High,No
+Low,Two,> Five,Low,No
+Low,Two,> Five,Medium,Yes
+Low,Two,> Five,High,Yes
+Low,Two,> Five,Low,No
+Low,Two,> Five,Medium,Yes
+Low,Two,> Five,High,Yes
+Low,Two,> Five,Low,No
+Low,Two,> Five,Medium,No
+Low,Two,> Five,High,No
+Low,Two,> Five,Low,No
+Low,Two,> Five,Medium,Yes
+Low,Two,> Five,High,Yes
+Low,Two,> Five,Low,No
+Low,Two,> Five,Medium,Yes
+Low,Two,> Five,High,Yes
+Low,Two,> Five,Low,No
+Low,Two,> Five,Medium,No
+Low,Two,> Five,High,No
+Low,Two,> Five,Low,No
+Low,Two,> Five,Medium,Yes
+Low,Two,> Five,High,Yes
+Low,Two,> Five,Low,No
+Low,Two,> Five,Medium,Yes
+Low,Two,> Five,High,Yes
+High,Three,> Five,Low,No
+High,Three,> Five,Medium,No
+High,Three,> Five,High,No
+High,Three,> Five,Low,No
+High,Three,> Five,Medium,No
+High,Three,> Five,High,No
+High,Three,> Five,Low,No
+High,Three,> Five,Medium,No
+High,Three,> Five,High,No
+High,Three,> Five,Low,No
+High,Three,> Five,Medium,No
+High,Three,> Five,High,No
+High,Three,> Five,Low,No
+High,Three,> Five,Medium,No
+High,Three,> Five,High,No
+High,Three,> Five,Low,No
+High,Three,> Five,Medium,No
+High,Three,> Five,High,No
+High,Three,> Five,Low,No
+High,Three,> Five,Medium,No
+High,Three,> Five,High,Yes
+High,Three,> Five,Low,No
+High,Three,> Five,Medium,Yes
+High,Three,> Five,High,Yes
+High,Three,> Five,Low,No
+High,Three,> Five,Medium,Yes
+High,Three,> Five,High,Yes
+High,Three,> Five,Low,No
+High,Three,> Five,Medium,No
+High,Three,> Five,High,Yes
+High,Three,> Five,Low,No
+High,Three,> Five,Medium,Yes
+High,Three,> Five,High,Yes
+High,Three,> Five,Low,No
+High,Three,> Five,Medium,Yes
+High,Three,> Five,High,Yes
+High,Three,> Five,Low,No
+High,Three,> Five,Medium,No
+High,Three,> Five,High,No
+High,Three,> Five,Low,No
+High,Three,> Five,Medium,No
+High,Three,> Five,High,No
+High,Three,> Five,Low,No
+High,Three,> Five,Medium,No
+High,Three,> Five,High,No
+High,Three,> Five,Low,No
+High,Three,> Five,Medium,No
+High,Three,> Five,High,Yes
+High,Three,> Five,Low,No
+High,Three,> Five,Medium,Yes
+High,Three,> Five,High,Yes
+High,Three,> Five,Low,No
+High,Three,> Five,Medium,Yes
+High,Three,> Five,High,Yes
+High,Three,> Five,Low,No
+High,Three,> Five,Medium,No
+High,Three,> Five,High,Yes
+High,Three,> Five,Low,No
+High,Three,> Five,Medium,Yes
+High,Three,> Five,High,Yes
+High,Three,> Five,Low,No
+High,Three,> Five,Medium,Yes
+High,Three,> Five,High,Yes
+High,Three,> Five,Low,No
+High,Three,> Five,Medium,No
+High,Three,> Five,High,Yes
+High,Three,> Five,Low,No
+High,Three,> Five,Medium,Yes
+High,Three,> Five,High,Yes
+High,Three,> Five,Low,No
+High,Three,> Five,Medium,Yes
+High,Three,> Five,High,Yes
+Medium,Three,> Five,Low,No
+Medium,Three,> Five,Medium,No
+Medium,Three,> Five,High,Yes
+Medium,Three,> Five,Low,No
+Medium,Three,> Five,Medium,Yes
+Medium,Three,> Five,High,Yes
+Medium,Three,> Five,Low,No
+Medium,Three,> Five,Medium,Yes
+Medium,Three,> Five,High,Yes
+Medium,Three,> Five,Low,No
+Medium,Three,> Five,Medium,No
+Medium,Three,> Five,High,Yes
+Medium,Three,> Five,Low,No
+Medium,Three,> Five,Medium,Yes
+Medium,Three,> Five,High,Yes
+Medium,Three,> Five,Low,No
+Medium,Three,> Five,Medium,Yes
+Medium,Three,> Five,High,Yes
+Medium,Three,> Five,Low,No
+Medium,Three,> Five,Medium,Yes
+Medium,Three,> Five,High,Yes
+Medium,Three,> Five,Low,No
+Medium,Three,> Five,Medium,Yes
+Medium,Three,> Five,High,Yes
+Medium,Three,> Five,Low,No
+Medium,Three,> Five,Medium,Yes
+Medium,Three,> Five,High,Yes
+Medium,Three,> Five,Low,No
+Medium,Three,> Five,Medium,Yes
+Medium,Three,> Five,High,Yes
+Medium,Three,> Five,Low,No
+Medium,Three,> Five,Medium,Yes
+Medium,Three,> Five,High,Yes
+Medium,Three,> Five,Low,No
+Medium,Three,> Five,Medium,Yes
+Medium,Three,> Five,High,Yes
+Low,Three,> Five,Low,No
+Low,Three,> Five,Medium,No
+Low,Three,> Five,High,Yes
+Low,Three,> Five,Low,No
+Low,Three,> Five,Medium,Yes
+Low,Three,> Five,High,Yes
+Low,Three,> Five,Low,No
+Low,Three,> Five,Medium,Yes
+Low,Three,> Five,High,Yes
+Low,Three,> Five,Low,No
+Low,Three,> Five,Medium,Yes
+Low,Three,> Five,High,Yes
+Low,Three,> Five,Low,No
+Low,Three,> Five,Medium,Yes
+Low,Three,> Five,High,Yes
+Low,Three,> Five,Low,No
+Low,Three,> Five,Medium,Yes
+Low,Three,> Five,High,Yes
+Low,Three,> Five,Low,No
+Low,Three,> Five,Medium,Yes
+Low,Three,> Five,High,Yes
+Low,Three,> Five,Low,No
+Low,Three,> Five,Medium,Yes
+Low,Three,> Five,High,Yes
+Low,Three,> Five,Low,No
+Low,Three,> Five,Medium,Yes
+Low,Three,> Five,High,Yes
+Low,Three,> Five,Low,No
+Low,Three,> Five,Medium,Yes
+Low,Three,> Five,High,Yes
+Low,Three,> Five,Low,No
+Low,Three,> Five,Medium,Yes
+Low,Three,> Five,High,Yes
+Low,Three,> Five,Low,No
+Low,Three,> Five,Medium,Yes
+Low,Three,> Five,High,Yes
+High,Four,> Five,Low,No
+High,Four,> Five,Medium,No
+High,Four,> Five,High,No
+High,Four,> Five,Low,No
+High,Four,> Five,Medium,No
+High,Four,> Five,High,No
+High,Four,> Five,Low,No
+High,Four,> Five,Medium,No
+High,Four,> Five,High,No
+High,Four,> Five,Low,No
+High,Four,> Five,Medium,No
+High,Four,> Five,High,No
+High,Four,> Five,Low,No
+High,Four,> Five,Medium,No
+High,Four,> Five,High,No
+High,Four,> Five,Low,No
+High,Four,> Five,Medium,No
+High,Four,> Five,High,No
+High,Four,> Five,Low,No
+High,Four,> Five,Medium,No
+High,Four,> Five,High,Yes
+High,Four,> Five,Low,No
+High,Four,> Five,Medium,Yes
+High,Four,> Five,High,Yes
+High,Four,> Five,Low,No
+High,Four,> Five,Medium,Yes
+High,Four,> Five,High,Yes
+High,Four,> Five,Low,No
+High,Four,> Five,Medium,No
+High,Four,> Five,High,Yes
+High,Four,> Five,Low,No
+High,Four,> Five,Medium,Yes
+High,Four,> Five,High,Yes
+High,Four,> Five,Low,No
+High,Four,> Five,Medium,Yes
+High,Four,> Five,High,Yes
+High,Four,> Five,Low,No
+High,Four,> Five,Medium,No
+High,Four,> Five,High,No
+High,Four,> Five,Low,No
+High,Four,> Five,Medium,No
+High,Four,> Five,High,No
+High,Four,> Five,Low,No
+High,Four,> Five,Medium,No
+High,Four,> Five,High,No
+High,Four,> Five,Low,No
+High,Four,> Five,Medium,No
+High,Four,> Five,High,Yes
+High,Four,> Five,Low,No
+High,Four,> Five,Medium,Yes
+High,Four,> Five,High,Yes
+High,Four,> Five,Low,No
+High,Four,> Five,Medium,Yes
+High,Four,> Five,High,Yes
+High,Four,> Five,Low,No
+High,Four,> Five,Medium,No
+High,Four,> Five,High,Yes
+High,Four,> Five,Low,No
+High,Four,> Five,Medium,Yes
+High,Four,> Five,High,Yes
+High,Four,> Five,Low,No
+High,Four,> Five,Medium,Yes
+High,Four,> Five,High,Yes
+High,Four,> Five,Low,No
+High,Four,> Five,Medium,No
+High,Four,> Five,High,Yes
+High,Four,> Five,Low,No
+High,Four,> Five,Medium,Yes
+High,Four,> Five,High,Yes
+High,Four,> Five,Low,No
+High,Four,> Five,Medium,Yes
+High,Four,> Five,High,Yes
+Medium,Four,> Five,Low,No
+Medium,Four,> Five,Medium,No
+Medium,Four,> Five,High,Yes
+Medium,Four,> Five,Low,No
+Medium,Four,> Five,Medium,Yes
+Medium,Four,> Five,High,Yes
+Medium,Four,> Five,Low,No
+Medium,Four,> Five,Medium,Yes
+Medium,Four,> Five,High,Yes
+Medium,Four,> Five,Low,No
+Medium,Four,> Five,Medium,No
+Medium,Four,> Five,High,Yes
+Medium,Four,> Five,Low,No
+Medium,Four,> Five,Medium,Yes
+Medium,Four,> Five,High,Yes
+Medium,Four,> Five,Low,No
+Medium,Four,> Five,Medium,Yes
+Medium,Four,> Five,High,Yes
+Medium,Four,> Five,Low,No
+Medium,Four,> Five,Medium,Yes
+Medium,Four,> Five,High,Yes
+Medium,Four,> Five,Low,No
+Medium,Four,> Five,Medium,Yes
+Medium,Four,> Five,High,Yes
+Medium,Four,> Five,Low,No
+Medium,Four,> Five,Medium,Yes
+Medium,Four,> Five,High,Yes
+Medium,Four,> Five,Low,No
+Medium,Four,> Five,Medium,Yes
+Medium,Four,> Five,High,Yes
+Medium,Four,> Five,Low,No
+Medium,Four,> Five,Medium,Yes
+Medium,Four,> Five,High,Yes
+Medium,Four,> Five,Low,No
+Medium,Four,> Five,Medium,Yes
+Medium,Four,> Five,High,Yes
+Low,Four,> Five,Low,No
+Low,Four,> Five,Medium,No
+Low,Four,> Five,High,Yes
+Low,Four,> Five,Low,No
+Low,Four,> Five,Medium,Yes
+Low,Four,> Five,High,Yes
+Low,Four,> Five,Low,No
+Low,Four,> Five,Medium,Yes
+Low,Four,> Five,High,Yes
+Low,Four,> Five,Low,No
+Low,Four,> Five,Medium,Yes
+Low,Four,> Five,High,Yes
+Low,Four,> Five,Low,No
+Low,Four,> Five,Medium,Yes
+Low,Four,> Five,High,Yes
+Low,Four,> Five,Low,No
+Low,Four,> Five,Medium,Yes
+Low,Four,> Five,High,Yes
+Low,Four,> Five,Low,No
+Low,Four,> Five,Medium,Yes
+Low,Four,> Five,High,Yes
+Low,Four,> Five,Low,No
+Low,Four,> Five,Medium,Yes
+Low,Four,> Five,High,Yes
+Low,Four,> Five,Low,No
+Low,Four,> Five,Medium,Yes
+Low,Four,> Five,High,Yes
+Low,Four,> Five,Low,No
+Low,Four,> Five,Medium,Yes
+Low,Four,> Five,High,Yes
+Low,Four,> Five,Low,No
+Low,Four,> Five,Medium,Yes
+Low,Four,> Five,High,Yes
+Low,Four,> Five,Low,No
+Low,Four,> Five,Medium,Yes
+Low,Four,> Five,High,Yes
+High,> Five,> Five,Low,No
+High,> Five,> Five,Medium,No
+High,> Five,> Five,High,No
+High,> Five,> Five,Low,No
+High,> Five,> Five,Medium,No
+High,> Five,> Five,High,No
+High,> Five,> Five,Low,No
+High,> Five,> Five,Medium,No
+High,> Five,> Five,High,No
+High,> Five,> Five,Low,No
+High,> Five,> Five,Medium,No
+High,> Five,> Five,High,No
+High,> Five,> Five,Low,No
+High,> Five,> Five,Medium,No
+High,> Five,> Five,High,No
+High,> Five,> Five,Low,No
+High,> Five,> Five,Medium,No
+High,> Five,> Five,High,No
+High,> Five,> Five,Low,No
+High,> Five,> Five,Medium,No
+High,> Five,> Five,High,Yes
+High,> Five,> Five,Low,No
+High,> Five,> Five,Medium,Yes
+High,> Five,> Five,High,Yes
+High,> Five,> Five,Low,No
+High,> Five,> Five,Medium,Yes
+High,> Five,> Five,High,Yes
+High,> Five,> Five,Low,No
+High,> Five,> Five,Medium,No
+High,> Five,> Five,High,Yes
+High,> Five,> Five,Low,No
+High,> Five,> Five,Medium,Yes
+High,> Five,> Five,High,Yes
+High,> Five,> Five,Low,No
+High,> Five,> Five,Medium,Yes
+High,> Five,> Five,High,Yes
+High,> Five,> Five,Low,No
+High,> Five,> Five,Medium,No
+High,> Five,> Five,High,No
+High,> Five,> Five,Low,No
+High,> Five,> Five,Medium,No
+High,> Five,> Five,High,No
+High,> Five,> Five,Low,No
+High,> Five,> Five,Medium,No
+High,> Five,> Five,High,No
+High,> Five,> Five,Low,No
+High,> Five,> Five,Medium,No
+High,> Five,> Five,High,Yes
+High,> Five,> Five,Low,No
+High,> Five,> Five,Medium,Yes
+High,> Five,> Five,High,Yes
+High,> Five,> Five,Low,No
+High,> Five,> Five,Medium,Yes
+High,> Five,> Five,High,Yes
+High,> Five,> Five,Low,No
+High,> Five,> Five,Medium,No
+High,> Five,> Five,High,Yes
+High,> Five,> Five,Low,No
+High,> Five,> Five,Medium,Yes
+High,> Five,> Five,High,Yes
+High,> Five,> Five,Low,No
+High,> Five,> Five,Medium,Yes
+High,> Five,> Five,High,Yes
+High,> Five,> Five,Low,No
+High,> Five,> Five,Medium,No
+High,> Five,> Five,High,Yes
+High,> Five,> Five,Low,No
+High,> Five,> Five,Medium,Yes
+High,> Five,> Five,High,Yes
+High,> Five,> Five,Low,No
+High,> Five,> Five,Medium,Yes
+High,> Five,> Five,High,Yes
+Medium,> Five,> Five,Low,No
+Medium,> Five,> Five,Medium,No
+Medium,> Five,> Five,High,Yes
+Medium,> Five,> Five,Low,No
+Medium,> Five,> Five,Medium,Yes
+Medium,> Five,> Five,High,Yes
+Medium,> Five,> Five,Low,No
+Medium,> Five,> Five,Medium,Yes
+Medium,> Five,> Five,High,Yes
+Medium,> Five,> Five,Low,No
+Medium,> Five,> Five,Medium,No
+Medium,> Five,> Five,High,Yes
+Medium,> Five,> Five,Low,No
+Medium,> Five,> Five,Medium,Yes
+Medium,> Five,> Five,High,Yes
+Medium,> Five,> Five,Low,No
+Medium,> Five,> Five,Medium,Yes
+Medium,> Five,> Five,High,Yes
+Medium,> Five,> Five,Low,No
+Medium,> Five,> Five,Medium,Yes
+Medium,> Five,> Five,High,Yes
+Medium,> Five,> Five,Low,No
+Medium,> Five,> Five,Medium,Yes
+Medium,> Five,> Five,High,Yes
+Medium,> Five,> Five,Low,No
+Medium,> Five,> Five,Medium,Yes
+Medium,> Five,> Five,High,Yes
+Medium,> Five,> Five,Low,No
+Medium,> Five,> Five,Medium,Yes
+Medium,> Five,> Five,High,Yes
+Medium,> Five,> Five,Low,No
+Medium,> Five,> Five,Medium,Yes
+Medium,> Five,> Five,High,Yes
+Medium,> Five,> Five,Low,No
+Medium,> Five,> Five,Medium,Yes
+Medium,> Five,> Five,High,Yes
+Low,> Five,> Five,Low,No
+Low,> Five,> Five,Medium,No
+Low,> Five,> Five,High,Yes
+Low,> Five,> Five,Low,No
+Low,> Five,> Five,Medium,Yes
+Low,> Five,> Five,High,Yes
+Low,> Five,> Five,Low,No
+Low,> Five,> Five,Medium,Yes
+Low,> Five,> Five,High,Yes
+Low,> Five,> Five,Low,No
+Low,> Five,> Five,Medium,Yes
+Low,> Five,> Five,High,Yes
+Low,> Five,> Five,Low,No
+Low,> Five,> Five,Medium,Yes
+Low,> Five,> Five,High,Yes
+Low,> Five,> Five,Low,No
+Low,> Five,> Five,Medium,Yes
+Low,> Five,> Five,High,Yes
+Low,> Five,> Five,Low,No
+Low,> Five,> Five,Medium,Yes
+Low,> Five,> Five,High,Yes
+Low,> Five,> Five,Low,No
+Low,> Five,> Five,Medium,Yes
+Low,> Five,> Five,High,Yes
+Low,> Five,> Five,Low,No
+Low,> Five,> Five,Medium,Yes
+Low,> Five,> Five,High,Yes
+Low,> Five,> Five,Low,No
+Low,> Five,> Five,Medium,Yes
+Low,> Five,> Five,High,Yes
+Low,> Five,> Five,Low,No
+Low,> Five,> Five,Medium,Yes
+Low,> Five,> Five,High,Yes
+Low,> Five,> Five,Low,No
+Low,> Five,> Five,Medium,Yes
+Low,> Five,> Five,High,Yes
